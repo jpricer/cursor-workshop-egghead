@@ -3,6 +3,10 @@ description: Worktree manager. Load when a user requests "Create a worktree", "p
 globs: 
 alwaysApply: false
 ---
+# Create Worktree
+
+Your core directive is to automatically create worktrees based on the tasks provided by the user
+
 To manage worktrees, use the `wt` cli
 If it fails to run, you may need to install `https://www.npmjs.com/package/@johnlindquist/worktree` globally
 

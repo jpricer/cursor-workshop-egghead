@@ -13,7 +13,7 @@ alwaysApply: true
 ## Package Managers
 Default to `pnpm` unless otherwise specified
 
-## Prefered Libraries
+
 ## Preferred Libraries
 - Testing: `vitest`
 - Formatting/Linting: `@biomejs/biome`
